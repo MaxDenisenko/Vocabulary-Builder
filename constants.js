@@ -1,0 +1,4 @@
+export const ADD_LIST_SCREEN = 'ADD_LIST_SCREEN';
+export const ADD_WORD_SCREEN = 'ADD_WORD_SCREEN';
+export const LISTS_SCREEN = 'LISTS_SCREEN';
+export const WORDS_SCREEN = 'WORDS_SCREEN';
